@@ -1,0 +1,5 @@
+= Java 17 Core in Multi Module Projects
+
+== Links
+
+. https://github.com/iluwatar/java-design-patterns[Java Design Pattern Git]
